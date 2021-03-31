@@ -1,4 +1,4 @@
-# A-level-Project
+# A-level Project
 
 This project was created using Processing (https://processing.org/).
 
