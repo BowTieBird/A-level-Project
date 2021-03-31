@@ -1,0 +1,246 @@
+#Hardware
+#RAM
+479.0
+10.0
+351.0
+371.0
+0.0
+0.0
+#MemoryAddress 0
+000
+#MemoryAddress 1
+000
+#MemoryAddress 2
+000
+#MemoryAddress 3
+000
+#MemoryAddress 4
+000
+#MemoryAddress 5
+000
+#MemoryAddress 6
+000
+#MemoryAddress 7
+000
+#MemoryAddress 8
+000
+#MemoryAddress 9
+000
+#MemoryAddress 10
+000
+#MemoryAddress 11
+000
+#MemoryAddress 12
+000
+#MemoryAddress 13
+000
+#MemoryAddress 14
+000
+#MemoryAddress 15
+000
+#MemoryAddress 16
+000
+#MemoryAddress 17
+000
+#MemoryAddress 18
+000
+#MemoryAddress 19
+000
+#MemoryAddress 20
+000
+#MemoryAddress 21
+000
+#MemoryAddress 22
+000
+#MemoryAddress 23
+000
+#MemoryAddress 24
+000
+#MemoryAddress 25
+000
+#MemoryAddress 26
+000
+#MemoryAddress 27
+000
+#MemoryAddress 28
+000
+#MemoryAddress 29
+000
+#MemoryAddress 30
+000
+#MemoryAddress 31
+000
+#MemoryAddress 32
+000
+#MemoryAddress 33
+000
+#MemoryAddress 34
+000
+#MemoryAddress 35
+000
+#MemoryAddress 36
+000
+#MemoryAddress 37
+000
+#MemoryAddress 38
+000
+#MemoryAddress 39
+000
+#MemoryAddress 40
+000
+#MemoryAddress 41
+000
+#MemoryAddress 42
+000
+#MemoryAddress 43
+000
+#MemoryAddress 44
+000
+#MemoryAddress 45
+000
+#MemoryAddress 46
+000
+#MemoryAddress 47
+000
+#MemoryAddress 48
+000
+#MemoryAddress 49
+000
+#MemoryAddress 50
+000
+#MemoryAddress 51
+000
+#MemoryAddress 52
+000
+#MemoryAddress 53
+000
+#MemoryAddress 54
+000
+#MemoryAddress 55
+000
+#MemoryAddress 56
+000
+#MemoryAddress 57
+000
+#MemoryAddress 58
+000
+#MemoryAddress 59
+000
+#MemoryAddress 60
+000
+#MemoryAddress 61
+000
+#MemoryAddress 62
+000
+#MemoryAddress 63
+000
+#MemoryAddress 64
+000
+#MemoryAddress 65
+000
+#MemoryAddress 66
+000
+#MemoryAddress 67
+000
+#MemoryAddress 68
+000
+#MemoryAddress 69
+000
+#MemoryAddress 70
+000
+#MemoryAddress 71
+000
+#MemoryAddress 72
+000
+#MemoryAddress 73
+000
+#MemoryAddress 74
+000
+#MemoryAddress 75
+000
+#MemoryAddress 76
+000
+#MemoryAddress 77
+000
+#MemoryAddress 78
+000
+#MemoryAddress 79
+000
+#MemoryAddress 80
+000
+#CPU
+225.0
+330.0
+180.0
+190.0
+0.0
+0.0
+0
+00
+000
+#Output
+640.0
+390.0
+180.0
+200.0
+0.0
+0.0
+
+
+
+
+
+#Input
+260.0
+20.0
+150.0
+80.0
+0.0
+0.0
+
+#ALU
+415.0
+510.0
+120.0
+80.0
+0.0
+0.0
+#Acc
+300.0
+530.0
+100.0
+60.0
+0.0
+0.0
+000
+#PC
+420.0
+440.0
+55.0
+60.0
+0.0
+0.0
+00
+#Scripts
+1
+#Script 0
+365.0
+158.0
+10.0
+10.0
+0.0
+0.0
+1
+#Block 0
+365.0
+158.0
+121.0
+25.0
+0.0
+0.0
+LDA
+#OperandTag 0
+test
+#Operand 0
+
+#ParticleAttractors

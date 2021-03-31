@@ -1,0 +1,264 @@
+#Hardware
+#RAM
+640.0
+10.0
+490.0
+410.0
+0.0
+0.0
+#MemoryAddress 0
+0000
+#MemoryAddress 1
+0000
+#MemoryAddress 2
+0000
+#MemoryAddress 3
+0000
+#MemoryAddress 4
+0000
+#MemoryAddress 5
+0000
+#MemoryAddress 6
+0000
+#MemoryAddress 7
+0000
+#MemoryAddress 8
+0000
+#MemoryAddress 9
+0000
+#MemoryAddress 10
+0000
+#MemoryAddress 11
+0000
+#MemoryAddress 12
+0000
+#MemoryAddress 13
+0000
+#MemoryAddress 14
+0000
+#MemoryAddress 15
+0000
+#MemoryAddress 16
+0000
+#MemoryAddress 17
+0000
+#MemoryAddress 18
+0000
+#MemoryAddress 19
+0000
+#MemoryAddress 20
+0000
+#MemoryAddress 21
+0000
+#MemoryAddress 22
+0000
+#MemoryAddress 23
+0000
+#MemoryAddress 24
+0000
+#MemoryAddress 25
+0000
+#MemoryAddress 26
+0000
+#MemoryAddress 27
+0000
+#MemoryAddress 28
+0000
+#MemoryAddress 29
+0000
+#MemoryAddress 30
+0000
+#MemoryAddress 31
+0000
+#MemoryAddress 32
+0000
+#MemoryAddress 33
+0000
+#MemoryAddress 34
+0000
+#MemoryAddress 35
+0000
+#MemoryAddress 36
+0000
+#MemoryAddress 37
+0000
+#MemoryAddress 38
+0000
+#MemoryAddress 39
+0000
+#MemoryAddress 40
+0000
+#MemoryAddress 41
+0000
+#MemoryAddress 42
+0000
+#MemoryAddress 43
+0000
+#MemoryAddress 44
+0000
+#MemoryAddress 45
+0000
+#MemoryAddress 46
+0000
+#MemoryAddress 47
+0000
+#MemoryAddress 48
+0000
+#MemoryAddress 49
+0000
+#MemoryAddress 50
+0000
+#MemoryAddress 51
+0000
+#MemoryAddress 52
+0000
+#MemoryAddress 53
+0000
+#MemoryAddress 54
+0000
+#MemoryAddress 55
+0000
+#MemoryAddress 56
+0000
+#MemoryAddress 57
+0000
+#MemoryAddress 58
+0000
+#MemoryAddress 59
+0000
+#MemoryAddress 60
+0000
+#MemoryAddress 61
+0000
+#MemoryAddress 62
+0000
+#MemoryAddress 63
+0000
+#MemoryAddress 64
+0000
+#MemoryAddress 65
+0000
+#MemoryAddress 66
+0000
+#MemoryAddress 67
+0000
+#MemoryAddress 68
+0000
+#MemoryAddress 69
+0000
+#MemoryAddress 70
+0000
+#MemoryAddress 71
+0000
+#MemoryAddress 72
+0000
+#MemoryAddress 73
+0000
+#MemoryAddress 74
+0000
+#MemoryAddress 75
+0000
+#MemoryAddress 76
+0000
+#MemoryAddress 77
+0000
+#MemoryAddress 78
+0000
+#MemoryAddress 79
+0000
+#MemoryAddress 80
+0000
+#MemoryAddress 81
+0000
+#MemoryAddress 82
+0000
+#MemoryAddress 83
+0000
+#MemoryAddress 84
+0000
+#MemoryAddress 85
+0000
+#MemoryAddress 86
+0000
+#MemoryAddress 87
+0000
+#MemoryAddress 88
+0000
+#MemoryAddress 89
+0000
+#MemoryAddress 90
+0000
+#MemoryAddress 91
+0000
+#MemoryAddress 92
+0000
+#MemoryAddress 93
+0000
+#MemoryAddress 94
+0000
+#MemoryAddress 95
+0000
+#MemoryAddress 96
+0000
+#MemoryAddress 97
+0000
+#MemoryAddress 98
+0000
+#MemoryAddress 99
+0000
+#CPU
+225.0
+530.0
+180.0
+190.0
+0.0
+0.0
+0
+00
+0000
+#Output
+940.0
+590.0
+180.0
+200.0
+0.0
+0.0
+
+
+
+
+
+#Input
+260.0
+60.0
+150.0
+80.0
+0.0
+0.0
+
+#ALU
+415.0
+710.0
+120.0
+80.0
+0.0
+0.0
+#Acc
+300.0
+730.0
+100.0
+60.0
+0.0
+0.0
+0000
+#PC
+420.0
+640.0
+55.0
+60.0
+0.0
+0.0
+00
+#Scripts
+0
+#ParticleAttractors
