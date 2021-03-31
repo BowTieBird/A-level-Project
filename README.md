@@ -1,4 +1,4 @@
-# A-level Project
+# A-level Project: Assembly Language Code Builder & LMC
 
 This project was created using Processing (https://processing.org/).
 
